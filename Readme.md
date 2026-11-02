@@ -47,3 +47,6 @@ The notebook also runs as-is on Kaggle (data under `/kaggle/input/`).
 
 - Add the original airline passenger satisfaction dataset to the training data (reported gain ≈ +0.002 AUC in public notebooks).
 - CatBoost as a third model; Optuna tuning.
+
+
+Final private leaderboard: rank 2,396 / 3,735 teams (top 64%) — private AUC 0.95945 (public 0.95841), single submission.
